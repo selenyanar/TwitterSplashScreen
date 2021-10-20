@@ -95,10 +95,10 @@
 		168D43902720592D002CA1A6 /* TwitterSplashScreen */ = {
 			isa = PBXGroup;
 			children = (
-				168D43912720592D002CA1A6 /* TwitterSplashScreenApp.swift */,
-				168D43932720592D002CA1A6 /* ContentView.swift */,
 				168D43952720592E002CA1A6 /* Assets.xcassets */,
 				168D439A2720592E002CA1A6 /* Info.plist */,
+				168D43932720592D002CA1A6 /* ContentView.swift */,
+				168D43912720592D002CA1A6 /* TwitterSplashScreenApp.swift */,
 				168D43972720592E002CA1A6 /* Preview Content */,
 			);
 			path = TwitterSplashScreen;
